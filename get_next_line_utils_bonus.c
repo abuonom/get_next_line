@@ -1,16 +1,17 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   get_next_line_utils.c                              :+:      :+:    :+:   */
+/*   get_next_line_bonus_utils.c                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: abuonomo <abuonomo@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/02/10 22:07:53 by abuonomo          #+#    #+#             */
-/*   Updated: 2023/02/15 17:29:22 by abuonomo         ###   ########.fr       */
+/*   Created: 2023/02/15 17:32:04 by abuonomo          #+#    #+#             */
+/*   Updated: 2023/02/15 17:32:19 by abuonomo         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
+
 char	*ft_strjoin(char *back, char *buff)
 {
 	char	*str;
